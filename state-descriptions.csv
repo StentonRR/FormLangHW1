@@ -1,0 +1,12 @@
+state,description
+q0,"East: man, wolf, goat, cabbage | West:"
+q1,"East: wolf, cabbage | West: man, goat"
+q2,"East: man, wolf, cabbage | West: goat"
+q3,"East: cabbage | West: man, wolf, goat"
+q4,"East: wolf | West: man, goat, cabbage"
+q5,"East: man, goat, cabbage | West: wolf"
+q6,"East: man, wolf, goat | West: cabbage"
+q7,"East: goat | West: man, wolf, cabbage"
+q8,"East: man, goat | West: wolf, cabbage"
+q9,"East: | West: man, wolf, goat, cabbage"
+q10,Error
